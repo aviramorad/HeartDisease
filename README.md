@@ -2,11 +2,9 @@
 A project for second-year college course, that strives to classify and calculate the risk of developing heart diesase using classification and regression algorithms.
 
 ## Built with
-Jupyter Notebook
-
-Python
-
-Kaggle.com
+- Jupyter Notebook
+- Python
+- Kaggle.com
 
 ## Process
 - Using a dataset from Kaggle.com consisting over 900 subjects
@@ -19,11 +17,11 @@ Kaggle.com
 ## Conclusion
 - The original dataset provided better accuracy results, when the highest is 94.6% accuracy on a single test and 86.7% cross validated accuracy.
 - The best classification algorithm for this dataset is the Random Forest alogrithm:
-- 
+ 
   <img width="271" alt="image" src="https://github.com/user-attachments/assets/726fb5dc-3408-41f5-b519-962d7d687308">
 
 - The most important features are ST_Slope and Chest Pain Type:
-- 
+ 
   <img width="1121" alt="image" src="https://github.com/user-attachments/assets/1490be04-a657-4972-95cd-09d03636c630">
 
 
